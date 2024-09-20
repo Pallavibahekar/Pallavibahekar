@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pallavi Bahekar</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 **<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.lemonly.com%2Fwp-content%2Fuploads%2F2018%2F08%2F07150313%2FHomebase_Thumb_v01.gif&f=1&nofb=1&ipt=6ebfd669122870ec66db20a833be98ce552b0a63b6280c8dcd64c4527e5f920b&ipo=images" >**
 
