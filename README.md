@@ -1,40 +1,179 @@
-# github readme
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Pallavi Bahekar</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pallavi%20Bahekar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Development%20Engineer%20%7C%20AI%2FML%20%7C%20Competitive%20Coder&descAlignY=55&descSize=16" width="100%"/>
 
-<h3 align="center">A passionate web developer from India</h3>
+<br/>
 
-**<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.lemonly.com%2Fwp-content%2Fuploads%2F2018%2F08%2F07150313%2FHomebase_Thumb_v01.gif&f=1&nofb=1&ipt=6ebfd669122870ec66db20a833be98ce552b0a63b6280c8dcd64c4527e5f920b&ipo=images" >**
+<img src="https://github.com/Pallavibahekar/Pallavibahekar/raw/main/me.jpeg" alt="Pallavi Bahekar" width="160px" style="border-radius:50%; border: 3px solid #a855f7;"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavibahekar&label=Profile%20views&color=0e75b6&style=flat" alt="pallavibahekar" /> </p>
+<br/><br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavibahekar" alt="pallavibahekar" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+there!+I'm+Pallavi+%F0%9F%91%8B;SDE+%40+PropertyGuru+%7C+Ex-Google+%7C+Ex-Amazon;LeetCode+Knight+%7C+Harvard+Scholar+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **React native, jquery**
-- 📫 How to reach me **lci2021041@iiitl.ac.in**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://komarev.com/ghpvc/?username=pallavibahekar&label=Profile+views&color=blueviolet&style=flat-square" alt="Profile views" />
+&nbsp;
+<a href="https://linkedin.com/in/pallavi-bahekar-9b904922a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/></a>
+&nbsp;
+<a href="https://leetcode.com/lci2021041_iiitl"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 
-<p align="left">
+</div>
 
-<a href="https://linkedin.com/in/pallavi-bahekar-9b904922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-bahekar-9b904922a" height="30" width="40" /></a>
+---
 
-<a href="https://codesandbox.com/pallavi bahekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pallavi bahekar" height="30" width="40" /></a>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<a href="https://www.codechef.com/users/pall_024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pall_024" height="30" width="40" /></a>
+### 👩‍💻 About Me
 
-<a href="https://www.leetcode.com/lci2021041_iiitl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lci2021041_iiitl" height="30" width="40" /></a>
+- 🎓 **B.Tech CS & AI** — IIIT Lucknow
+- 💼 **SDE @ PropertyGuru** · Ex-**Google** · Ex-**Amazon**
+- 🤖 Building **AI-powered apps** with NLP & ML
+- 🏆 **LeetCode Knight** · Harvard Scholar · 300+ DSA problems
+- 🌱 Currently learning **React Native · System Design · Advanced ML**
+- 💬 Ask me about **React · NLP · AWS · Java · Flutter**
+- 📫 **lci2021041@iiitl.ac.in**
+- ⚡ I build **intelligent chatbots** from scratch — just for fun!
 
-<a href="https://auth.geeksforgeeks.org/user/lci2021041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lci2021041" height="30" width="40" /></a>
+<br clear="right"/>
 
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🚀 Featured Projects
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Timewise Application</h3>
+      <div align="center">
+        <a href="https://github.com/pallavibahekar/timewise" target="_blank">
+          <img src="https://github.com/Pallavibahekar/Pallavibahekar/raw/main/timewise1.png" width="100%" alt="Timewise App" style="border-radius:8px"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <br/><br/>
+        <p>Smart grocery app — sentiment analysis, freshness prediction & ML-powered suggestions</p>
+        <a href="https://github.com/pallavibahekar/timewise">
+          <img src="https://img.shields.io/badge/View%20Repo-%23121011?style=for-the-badge&logo=github"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI-Powered Portfolio</h3>
+      <div align="center">
+        <a href="https://github.com/pallavibahekar/portfolio" target="_blank">
+          <img src="https://github.com/Pallavibahekar/Pallavibahekar/raw/main/portfolio.png" width="100%" alt="Portfolio" style="border-radius:8px"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP%20Engine-A855F7?style=flat-square"/>
+        <br/><br/>
+        <p>Portfolio with custom TF-IDF chatbot, sentiment analyzer & syntax-highlighted code walkthrough</p>
+        <a href="https://github.com/pallavibahekar/portfolio">
+          <img src="https://img.shields.io/badge/View%20Repo-%23121011?style=for-the-badge&logo=github"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/Pallavibahekar/Pallavibahekar/raw/main/timewise2.png" width="70%" alt="Timewise App Screens" style="border-radius:8px; margin-top:12px"/>
+      <p><em>Timewise — Vendor & Grocery screens</em></p>
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavibahekar&show_icons=true&locale=en&layout=compact" alt="pallavibahekar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavibahekar&show_icons=true&locale=en" alt="pallavibahekar" /></p>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavibahekar&" alt="pallavibahekar" /></p>
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**AI / ML & Tools**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pallavibahekar&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pallavibahekar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavibahekar&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavibahekar&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavibahekar&theme=react-dark&bg_color=0D1117&color=A855F7&line=EC4899&point=ffffff&hide_border=true" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavi-bahekar-9b904922a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pallavibahekar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lci2021041_iiitl)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pall_024)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/lci2021041)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lci2021041@iiitl.ac.in)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+**💡 "Building intelligent solutions, one line of code at a time"**
+
+⭐️ Star my repos if you find them interesting!
+
+</div>
