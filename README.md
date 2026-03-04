@@ -128,10 +128,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pallavibahekar&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+
+| 🎖️ Harvard Scholar | 🥇 LeetCode Knight | 🏅 300+ DSA Solved | 💼 Google · Amazon · PropertyGuru |
+|:---:|:---:|:---:|:---:|
+| Harvard Innovation Program | Top-tier competitive coder | Across LeetCode, GFG, CodeChef | Industry SDE experience |
+
 </div>
 
 ---
@@ -139,12 +143,13 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pallavibahekar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavibahekar&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-stats-alpha.vercel.app/api?username=pallavibahekar&cc=0D1117&tc=A855F7&ic=EC4899&bc=0D1117" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=pallavibahekar&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavibahekar&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavibahekar&theme=radical" alt="GitHub Stats Card"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavibahekar&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
