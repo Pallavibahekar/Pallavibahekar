@@ -32,7 +32,7 @@
 - 🏆 **LeetCode Knight** · Harvard Scholar · 300+ DSA problems
 - 🌱 Currently learning **React Native · System Design · Advanced ML**
 - 💬 Ask me about **React · NLP · AWS · Java · Flutter**
-- 📫 **lci2021041@iiitl.ac.in**
+- 📫 **bahekarpallavi883@gmail.com**
 - ⚡ I build **intelligent chatbots** from scratch — just for fun!
 
 <br clear="right"/>
@@ -167,7 +167,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lci2021041_iiitl)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pall_024)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/lci2021041)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lci2021041@iiitl.ac.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahekarpallavi883@gmail.com)
 
 </div>
 
